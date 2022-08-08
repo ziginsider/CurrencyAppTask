@@ -8,11 +8,12 @@ Implement client Android app "currency-exchange". The main screen can be like th
 2) Each item of the list should consist from icon of the currency, base name of the currency, description and rate (current currency base price). Let's use 5 decimal places precision for rate value. For example, see demo above.
 3) Rates of currencies are refreshed every 5 seconds.
 4) `User` can tap on the rate field of any item, then:
-    - Choosen item is moved of the top of currencies list
+    - Choosen item is moved to the top of currencies list
     - `User` can enter currency value in this rate field
     - Other currency rates is recalculated according to entered currency value and base rate value of every currency item. So, there is a currency exchange implementation. 
-    
-    <img alt="quiz app" src="/img/demo2.gif" width="250" height="500" />
+
+  <img alt="set value" src="/img/demo2.gif" width="250" height="500" />
+
 5) `User` can tap on any currency item to move on detailed currency screen. This screen consist the same info as the currency item plus the last currency update date (in any human readable format, e.g. *2022-09-30 01:16:06*). The currency rate is also refreshed.
  
 ### Acceptance criteria
