@@ -22,7 +22,7 @@ Implement client Android app "currency-exchange". The main screen can be like th
 
 1) Implement list of currencies using *RecyclerView*. 
 
-    Available currency bases: **USD, EUR, CHF, HRK, MXN, ZAR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, ISK, DKK, ADA, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL, INR**
+    Available currency bases: **USD, EUR, CHF, HRK, MXN, ZAR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, ISK, DKK, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL, INR**
 
     You can find icons of currencies in this repo.
 
