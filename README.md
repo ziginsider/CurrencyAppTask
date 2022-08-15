@@ -14,7 +14,6 @@ Implement client Android app "currency-exchange". The main screen can be like th
 
   <img alt="set value" src="/img/demo2.gif" width="250" height="500" />
 
-5) `User` can tap on any currency item to move on detailed currency screen. This screen consist the same info as the currency item plus the last currency update date (in any human readable format, e.g. *2022-09-30 01:16:06*). The currency rate is also refreshed.
  
 ### Acceptance criteria
 
